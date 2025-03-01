@@ -3,6 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   lang: 'zh-CN',
   title: 'Tet Blogs',
+  subtitle: 'A CS 蒟蒻\s Blog',
   author: {
     name: 'Tet',
     avatar: '/avatar.jpg'
@@ -30,49 +31,49 @@ export default defineSiteConfig({
     },
     {
       name: '微博(not set)',
-      link: 'https://weibo.com/jizhideyunyoujun',
+      link: '',
       icon: 'i-ri-weibo-line',
       color: '#E6162D',
     },
     {
       name: '豆瓣(not set)',
-      link: 'https://www.douban.com/people/yunyoujun/',
+      link: '',
       icon: 'i-ri-douban-line',
       color: '#007722',
     },
     {
       name: '网易云音乐(not set)',
-      link: 'https://music.163.com/#/user/home?id=247102977',
+      link: '',
       icon: 'i-ri-netease-cloud-music-line',
       color: '#C20C0C',
     },
     {
       name: '知乎(not set)',
-      link: 'https://www.zhihu.com/people/yunyoujun/',
+      link: '',
       icon: 'i-ri-zhihu-line',
       color: '#0084FF',
     },
     {
       name: '哔哩哔哩(not set)',
-      link: 'https://space.bilibili.com/1579790',
+      link: '',
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
     {
       name: '微信公众号(not set)',
-      link: 'https://cdn.yunyoujun.cn/img/about/white-qrcode-and-search.jpg',
+      link: '',
       icon: 'i-ri-wechat-2-line',
       color: '#1AAD19',
     },
     {
       name: 'Twitter(not set)',
-      link: 'https://twitter.com/YunYouJun',
+      link: '',
       icon: 'i-ri-twitter-x-fill',
       color: 'black',
     },
     {
       name: 'Telegram Channel(not set)',
-      link: 'https://t.me/elpsycn',
+      link: '',
       icon: 'i-ri-telegram-line',
       color: '#0088CC',
     },
@@ -84,7 +85,7 @@ export default defineSiteConfig({
     },
     {
       name: 'Travelling(not set)',
-      link: 'https://www.travellings.cn/go.html',
+      link: '',
       icon: 'i-ri-train-line',
       color: 'var(--va-c-text)',
     },
@@ -94,25 +95,26 @@ export default defineSiteConfig({
     enable: false,
   },
 
+
   sponsor: {
     enable: true,
     title: '我很可爱，请给我钱！',
     methods: [
       {
         name: '支付宝',
-        url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
+        url: '',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: 'QQ 支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png',
+        url: '',
         color: '#12B7F5',
         icon: 'i-ri-qq-line',
       },
       {
         name: '微信支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg',
+        url: '',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },

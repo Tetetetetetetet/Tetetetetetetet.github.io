@@ -6,3 +6,4 @@ tags:
     - Reflection
 ---
 # This is my first Journal
+*小别胜新婚*

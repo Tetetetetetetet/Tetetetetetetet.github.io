@@ -5,6 +5,7 @@ export default defineSiteConfig({
   title: 'Tet Blogs',
   author: {
     name: 'Tet',
+    avatar: '/avatar.jpg'
   },
   
   description: 'Personal Website',

@@ -1,13 +1,13 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
   lang: 'zh-CN',
-  title: 'Valaxy Theme Yun',
+  title: 'Tet Blogs',
   author: {
-    name: '云游君',
+    name: 'Tet',
   },
-  description: 'Valaxy Theme Yun Preview.',
+  
+  description: 'Personal Website',
   social: [
     {
       name: 'RSS',
@@ -16,73 +16,73 @@ export default defineSiteConfig({
       color: 'orange',
     },
     {
-      name: 'QQ 群 1050458482',
-      link: 'https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi',
+      name: '1785131421',
+      link: '/',
       icon: 'i-ri-qq-line',
       color: '#12B7F5',
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/YunYouJun',
+      link: 'https://github.com/Tetetetetetetet',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
     {
-      name: '微博',
+      name: '微博(not set)',
       link: 'https://weibo.com/jizhideyunyoujun',
       icon: 'i-ri-weibo-line',
       color: '#E6162D',
     },
     {
-      name: '豆瓣',
+      name: '豆瓣(not set)',
       link: 'https://www.douban.com/people/yunyoujun/',
       icon: 'i-ri-douban-line',
       color: '#007722',
     },
     {
-      name: '网易云音乐',
+      name: '网易云音乐(not set)',
       link: 'https://music.163.com/#/user/home?id=247102977',
       icon: 'i-ri-netease-cloud-music-line',
       color: '#C20C0C',
     },
     {
-      name: '知乎',
+      name: '知乎(not set)',
       link: 'https://www.zhihu.com/people/yunyoujun/',
       icon: 'i-ri-zhihu-line',
       color: '#0084FF',
     },
     {
-      name: '哔哩哔哩',
+      name: '哔哩哔哩(not set)',
       link: 'https://space.bilibili.com/1579790',
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
     {
-      name: '微信公众号',
+      name: '微信公众号(not set)',
       link: 'https://cdn.yunyoujun.cn/img/about/white-qrcode-and-search.jpg',
       icon: 'i-ri-wechat-2-line',
       color: '#1AAD19',
     },
     {
-      name: 'Twitter',
+      name: 'Twitter(not set)',
       link: 'https://twitter.com/YunYouJun',
       icon: 'i-ri-twitter-x-fill',
       color: 'black',
     },
     {
-      name: 'Telegram Channel',
+      name: 'Telegram Channel(not set)',
       link: 'https://t.me/elpsycn',
       icon: 'i-ri-telegram-line',
       color: '#0088CC',
     },
     {
       name: 'E-Mail',
-      link: 'mailto:me@yunyoujun.cn',
+      link: 'tet3268688@outlook.com',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },
     {
-      name: 'Travelling',
+      name: 'Travelling(not set)',
       link: 'https://www.travellings.cn/go.html',
       icon: 'i-ri-train-line',
       color: 'var(--va-c-text)',

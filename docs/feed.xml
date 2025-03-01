@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tet Blogs</title>
+        <link>https://tetetetetetetet.github.io/</link>
+        <description>Personal Website</description>
+        <lastBuildDate>Sat, 01 Mar 2025 21:44:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Tet Blogs</title>
+            <url>https://tetetetetetetet.github.io/avatar.jpg</url>
+            <link>https://tetetetetetetet.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © Tet</copyright>
+        <atom:link href="https://tetetetetetetet.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My First Post]]></title>
+            <link>https://tetetetetetetet.github.io/posts/myPost</link>
+            <guid>https://tetetetetetetet.github.io/posts/myPost</guid>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>This is my first post</h1>
+<h1>S</h1>
+<br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/myPost" target="_blank">https://tetetetetetetet.github.io/posts/myPost</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Tet)</author>
+        </item>
+        <item>
+            <title><![CDATA[first journal]]></title>
+            <link>https://tetetetetetetet.github.io/posts/journal</link>
+            <guid>https://tetetetetetetet.github.io/posts/journal</guid>
+            <pubDate>Sat, 01 Mar 2025 20:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>This is my first journal</h1>
+<br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/journal" target="_blank">https://tetetetetetetet.github.io/posts/journal</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Tet)</author>
+        </item>
+    </channel>
+</rss>

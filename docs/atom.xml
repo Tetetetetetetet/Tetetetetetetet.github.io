@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tetetetetetetet.github.io/</id>
+    <title>Tet Blogs</title>
+    <updated>2025-03-01T21:44:21.287Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Tet</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://tetetetetetetet.github.io/"/>
+    <link rel="self" href="https://tetetetetetetet.github.io/atom.xml"/>
+    <subtitle>Personal Website</subtitle>
+    <logo>https://tetetetetetetet.github.io/avatar.jpg</logo>
+    <icon>https://tetetetetetetet.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © Tet</rights>
+    <entry>
+        <title type="html"><![CDATA[My First Post]]></title>
+        <id>https://tetetetetetetet.github.io/posts/myPost</id>
+        <link href="https://tetetetetetetet.github.io/posts/myPost"/>
+        <updated>2025-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>This is my first post</h1>
+<h1>S</h1>
+<br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/myPost" target="_blank">https://tetetetetetetet.github.io/posts/myPost</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Tet</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[first journal]]></title>
+        <id>https://tetetetetetetet.github.io/posts/journal</id>
+        <link href="https://tetetetetetetet.github.io/posts/journal"/>
+        <updated>2025-03-01T20:28:23.375Z</updated>
+        <content type="html"><![CDATA[<h1>This is my first journal</h1>
+<br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/journal" target="_blank">https://tetetetetetetet.github.io/posts/journal</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Tet</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-01T20:28:23.375Z</published>
+    </entry>
+</feed>

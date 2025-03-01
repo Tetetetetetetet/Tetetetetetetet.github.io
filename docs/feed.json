@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tet Blogs",
+    "home_page_url": "https://tetetetetetetet.github.io/",
+    "feed_url": "https://tetetetetetetet.github.io/feed.json",
+    "description": "Personal Website",
+    "icon": "https://tetetetetetetet.github.io/avatar.jpg",
+    "author": {
+        "name": "Tet",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>This is my first post</h1>\n<h1>S</h1>\n<br/><p>访问 <a href=\"https://tetetetetetetet.github.io/posts/myPost\" target=\"_blank\">https://tetetetetetetet.github.io/posts/myPost</a> 阅读全文。</p>",
+            "url": "https://tetetetetetetet.github.io/posts/myPost",
+            "title": "My First Post",
+            "date_modified": "2025-03-02T00:00:00.000Z",
+            "date_published": "2025-03-02T00:00:00.000Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>This is my first journal</h1>\n<br/><p>访问 <a href=\"https://tetetetetetetet.github.io/posts/journal\" target=\"_blank\">https://tetetetetetetet.github.io/posts/journal</a> 阅读全文。</p>",
+            "url": "https://tetetetetetetet.github.io/posts/journal",
+            "title": "first journal",
+            "date_modified": "2025-03-01T20:28:23.375Z",
+            "date_published": "2025-03-01T20:28:23.375Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

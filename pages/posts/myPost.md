@@ -10,7 +10,6 @@ top: 1
 excerpt_type: md
 ---
 # This is my first post
-# S
 <!-- more -->
 ## Main content1
 ## Main Content2

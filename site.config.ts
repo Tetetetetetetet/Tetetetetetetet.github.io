@@ -8,8 +8,8 @@ export default defineSiteConfig({
     name: 'Tet',
     avatar: '/avatar.jpg'
   },
-  
   description: 'Personal Website',
+  url: 'https://tetetetetetetet.github.io',
   social: [
     {
       name: 'RSS',

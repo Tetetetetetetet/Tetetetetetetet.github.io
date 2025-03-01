@@ -4,7 +4,7 @@
         <title>Tet Blogs</title>
         <link>https://tetetetetetetet.github.io/</link>
         <description>Personal Website</description>
-        <lastBuildDate>Sat, 01 Mar 2025 21:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 22:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -20,7 +20,6 @@
             <guid>https://tetetetetetetet.github.io/posts/myPost</guid>
             <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<h1>This is my first post</h1>
-<h1>S</h1>
 <br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/myPost" target="_blank">https://tetetetetetetet.github.io/posts/myPost</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Tet)</author>
         </item>
@@ -28,8 +27,9 @@
             <title><![CDATA[first journal]]></title>
             <link>https://tetetetetetetet.github.io/posts/journal</link>
             <guid>https://tetetetetetetet.github.io/posts/journal</guid>
-            <pubDate>Sat, 01 Mar 2025 20:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>This is my first journal</h1>
+            <pubDate>Sat, 01 Mar 2025 22:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>This is my first Journal</h1>
+<p><em>小别胜新婚</em></p>
 <br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/journal" target="_blank">https://tetetetetetetet.github.io/posts/journal</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Tet)</author>
         </item>

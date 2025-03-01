@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tetetetetetetet.github.io/</id>
     <title>Tet Blogs</title>
-    <updated>2025-03-01T21:44:21.287Z</updated>
+    <updated>2025-03-01T22:19:11.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tet</name>
@@ -21,7 +21,6 @@
         <link href="https://tetetetetetetet.github.io/posts/myPost"/>
         <updated>2025-03-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<h1>This is my first post</h1>
-<h1>S</h1>
 <br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/myPost" target="_blank">https://tetetetetetetet.github.io/posts/myPost</a> 阅读全文。</p>]]></content>
         <author>
             <name>Tet</name>
@@ -34,14 +33,15 @@
         <title type="html"><![CDATA[first journal]]></title>
         <id>https://tetetetetetetet.github.io/posts/journal</id>
         <link href="https://tetetetetetetet.github.io/posts/journal"/>
-        <updated>2025-03-01T20:28:23.375Z</updated>
-        <content type="html"><![CDATA[<h1>This is my first journal</h1>
+        <updated>2025-03-01T22:19:00.488Z</updated>
+        <content type="html"><![CDATA[<h1>This is my first Journal</h1>
+<p><em>小别胜新婚</em></p>
 <br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/journal" target="_blank">https://tetetetetetetet.github.io/posts/journal</a> 阅读全文。</p>]]></content>
         <author>
             <name>Tet</name>
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2025-03-01T20:28:23.375Z</published>
+        <published>2025-03-01T22:19:00.488Z</published>
     </entry>
 </feed>

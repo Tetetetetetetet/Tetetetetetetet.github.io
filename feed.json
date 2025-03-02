@@ -1,0 +1,50 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tet Blogs",
+    "home_page_url": "https://tetetetetetetet.github.io/",
+    "feed_url": "https://tetetetetetetet.github.io/feed.json",
+    "description": "Personal Website",
+    "icon": "https://tetetetetetetet.github.io/avatar.jpg",
+    "author": {
+        "name": "Tet",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>This is my first Journal</h1>\n<p><em>小别胜新婚</em></p>\n<br/><p>访问 <a href=\"https://tetetetetetetet.github.io/posts/journal\" target=\"_blank\">https://tetetetetetetet.github.io/posts/journal</a> 阅读全文。</p>",
+            "url": "https://tetetetetetetet.github.io/posts/journal",
+            "title": "first journal",
+            "date_modified": "2025-03-02T09:36:25.211Z",
+            "date_published": "2025-03-02T09:36:25.211Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>This is my first post</h1>\n<br/><p>访问 <a href=\"https://tetetetetetetet.github.io/posts/myPost\" target=\"_blank\">https://tetetetetetetet.github.io/posts/myPost</a> 阅读全文。</p>",
+            "url": "https://tetetetetetetet.github.io/posts/myPost",
+            "title": "My First Post",
+            "date_modified": "2025-03-02T00:00:00.000Z",
+            "date_published": "2025-03-02T00:00:00.000Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>记录和宝宝一起吃 <em>fine food</em>--<em><strong>Time for FOOD</strong></em> 啦！！！<br>\n<img src=\"https://tetetetetetetet.github.io/bf1.jpg\" alt=\"foodpic\"></p>\n<h2>好开心</h2>\n<h2>好好吃</h2>\n<h1>永远和宝宝在一起</h1>\n<br/><p>访问 <a href=\"https://tetetetetetetet.github.io/posts/babyfood/bf1\" target=\"_blank\">https://tetetetetetetet.github.io/posts/babyfood/bf1</a> 阅读全文。</p>",
+            "url": "https://tetetetetetetet.github.io/posts/babyfood/bf1",
+            "title": "宝宝辅食1",
+            "date_modified": "2025-02-17T00:00:00.000Z",
+            "date_published": "2025-02-18T00:00:00.000Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

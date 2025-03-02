@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tet Blogs</title>
+        <link>https://tetetetetetetet.github.io/</link>
+        <description>Personal Website</description>
+        <lastBuildDate>Sun, 02 Mar 2025 09:37:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Tet Blogs</title>
+            <url>https://tetetetetetetet.github.io/avatar.jpg</url>
+            <link>https://tetetetetetetet.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © Tet</copyright>
+        <atom:link href="https://tetetetetetetet.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[first journal]]></title>
+            <link>https://tetetetetetetet.github.io/posts/journal</link>
+            <guid>https://tetetetetetetet.github.io/posts/journal</guid>
+            <pubDate>Sun, 02 Mar 2025 09:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>This is my first Journal</h1>
+<p><em>小别胜新婚</em></p>
+<br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/journal" target="_blank">https://tetetetetetetet.github.io/posts/journal</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Tet)</author>
+        </item>
+        <item>
+            <title><![CDATA[My First Post]]></title>
+            <link>https://tetetetetetetet.github.io/posts/myPost</link>
+            <guid>https://tetetetetetetet.github.io/posts/myPost</guid>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>This is my first post</h1>
+<br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/myPost" target="_blank">https://tetetetetetetet.github.io/posts/myPost</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Tet)</author>
+        </item>
+        <item>
+            <title><![CDATA[宝宝辅食1]]></title>
+            <link>https://tetetetetetetet.github.io/posts/babyfood/bf1</link>
+            <guid>https://tetetetetetetet.github.io/posts/babyfood/bf1</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>记录和宝宝一起吃 <em>fine food</em>--<em><strong>Time for FOOD</strong></em> 啦！！！<br>
+<img src="https://tetetetetetetet.github.io/bf1.jpg" alt="foodpic"></p>
+<h2>好开心</h2>
+<h2>好好吃</h2>
+<h1>永远和宝宝在一起</h1>
+<br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/babyfood/bf1" target="_blank">https://tetetetetetetet.github.io/posts/babyfood/bf1</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Tet)</author>
+        </item>
+    </channel>
+</rss>

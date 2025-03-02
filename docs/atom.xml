@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tetetetetetetet.github.io/</id>
     <title>Tet Blogs</title>
-    <updated>2025-03-01T22:19:11.779Z</updated>
+    <updated>2025-03-02T09:36:08.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tet</name>
@@ -43,5 +43,23 @@
             <uri>https://valaxy.site</uri>
         </author>
         <published>2025-03-01T22:19:00.488Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝宝辅食1]]></title>
+        <id>https://tetetetetetetet.github.io/posts/babyfood/bf1</id>
+        <link href="https://tetetetetetetet.github.io/posts/babyfood/bf1"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>记录和宝宝一起吃 <em>fine food</em>--<em><strong>Time for FOOD</strong></em> 啦！！！<br>
+<img src="https://tetetetetetetet.github.io/bf1.jpg" alt="foodpic"></p>
+<h2>好开心</h2>
+<h2>好好吃</h2>
+<h1>永远和宝宝在一起</h1>
+<br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/babyfood/bf1" target="_blank">https://tetetetetetetet.github.io/posts/babyfood/bf1</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Tet</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-02-18T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Tet Blogs</title>
         <link>https://tetetetetetetet.github.io/</link>
         <description>Personal Website</description>
-        <lastBuildDate>Sat, 01 Mar 2025 22:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 09:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -31,6 +31,19 @@
             <content:encoded><![CDATA[<h1>This is my first Journal</h1>
 <p><em>小别胜新婚</em></p>
 <br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/journal" target="_blank">https://tetetetetetetet.github.io/posts/journal</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Tet)</author>
+        </item>
+        <item>
+            <title><![CDATA[宝宝辅食1]]></title>
+            <link>https://tetetetetetetet.github.io/posts/babyfood/bf1</link>
+            <guid>https://tetetetetetetet.github.io/posts/babyfood/bf1</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>记录和宝宝一起吃 <em>fine food</em>--<em><strong>Time for FOOD</strong></em> 啦！！！<br>
+<img src="https://tetetetetetetet.github.io/bf1.jpg" alt="foodpic"></p>
+<h2>好开心</h2>
+<h2>好好吃</h2>
+<h1>永远和宝宝在一起</h1>
+<br/><p>访问 <a href="https://tetetetetetetet.github.io/posts/babyfood/bf1" target="_blank">https://tetetetetetetet.github.io/posts/babyfood/bf1</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Tet)</author>
         </item>
     </channel>

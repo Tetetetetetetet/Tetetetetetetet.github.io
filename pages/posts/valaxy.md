@@ -8,7 +8,8 @@ tag:
 date: '2025-3-3'
 update: '2025-3-3'
 ---
-# 谁能告诉我valaxy的官方文档哪里写了有用的东西
+# 当我学会开始看官方doc
+## shortcuts
 `package.json`里可以设置快捷命令
 ```json
 {
@@ -22,4 +23,11 @@ update: '2025-3-3'
   }
 }
 ```
+## Post templates
+scaffolds目录下设置
+
+## Config
+见[here](https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy/types/config.ts#L188)
+
+valaxy.config.ts.themeConfig: (here)[https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy-theme-yun/docs/zh-CN/config.md]
 

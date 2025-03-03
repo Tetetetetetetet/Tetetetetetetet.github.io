@@ -1,15 +1,30 @@
-import { defineSiteConfig } from 'valaxy'
+import { DefaultTheme, defineSiteConfig } from 'valaxy'
 
+export interface SocialLink{
+  name: 'friends',
+  link: '',
+  icon: 'fluent-emoji-flat:angry-face-with-horns',
+  color: 'blue'
+}
 export default defineSiteConfig({
+  mode: 'auto',
   lang: 'zh-CN',
   title: 'Tet Blogs',
   subtitle: 'A CS 蒟蒻\s Blog',
+  description: 'No Game No Life',
   author: {
     name: 'Tet',
-    avatar: '/avatar.jpg'
+    avatar: '/avatar.jpg',
+    email: 'tett8107@gmail.com',
+    link: 'https://tetetetetetetet.github.io',
+    status:
+    {
+      emoji: 'twemoji:video-game',
+    }
   },
-  description: 'Personal Website',
-  url: 'https://tetetetetetetet.github.io',
+  lastUpdated: true,
+  favicon:'/avatar.jpg',
+  url: 'https://tettet.org',
   social: [
     {
       name: 'RSS',

@@ -17,7 +17,10 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: 'Tet\'s blog',
+      title: ['Tet\'s','Web','site'],
+      cloud:{
+        enable: true,
+      }
     },
 
     pages: [

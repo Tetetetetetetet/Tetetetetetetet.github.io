@@ -36,6 +36,7 @@ export default defineSiteConfig({
       name: 'steam',
       link:'',
       icon: 'i-ri-steam-line',
+      color: 'black',
     },
     {
       name: '1785131421',

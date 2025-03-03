@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'valaxy 开发 log'
 categories: valaxy
 tag:
@@ -7,6 +8,8 @@ tag:
     - Self-Learning Log
 date: '2025-3-3'
 update: '2025-3-3'
+top: 0
+excerpt_type: md
 ---
 # 当我学会开始看官方doc
 ## shortcuts

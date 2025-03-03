@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tet Blogs</title>
+        <link>https://tettet.org/</link>
+        <description>No Game No Life</description>
+        <lastBuildDate>Mon, 03 Mar 2025 12:44:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Tet Blogs</title>
+            <url>https://tettet.org/avatar.jpg</url>
+            <link>https://tettet.org/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © Tet</copyright>
+        <atom:link href="https://tettet.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[valaxy 开发 log]]></title>
+            <link>https://tettet.org/posts/valaxy</link>
+            <guid>https://tettet.org/posts/valaxy</guid>
+            <pubDate>Mon, 03 Mar 2025 12:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>当我学会开始看官方doc</h1>
+<h2>shortcuts</h2>
+<p><code>package.json</code>里可以设置快捷命令</p>
+<pre><code class="language-json">{
+  &quot;scripts&quot;: {
+    &quot;build&quot;: &quot;npm run b</code></pre>
+<br/><p>访问 <a href="https://tettet.org/posts/valaxy" target="_blank">https://tettet.org/posts/valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>tett8107@gmail.com (Tet)</author>
+        </item>
+        <item>
+            <title><![CDATA[宝宝辅食1]]></title>
+            <link>https://tettet.org/posts/babyfood/bf1</link>
+            <guid>https://tettet.org/posts/babyfood/bf1</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>记录和宝宝一起吃 <em>fine food</em>--<em><strong>Time for FOOD</strong></em> 啦！！！<br>
+<img src="https://tettet.org/bf1.jpg" alt="foodpic"></p>
+<h2>好开心</h2>
+<h2>好好吃</h2>
+<h1>永远和宝宝在一起</h1>
+<br/><p>访问 <a href="https://tettet.org/posts/babyfood/bf1" target="_blank">https://tettet.org/posts/babyfood/bf1</a> 阅读全文。</p>]]></content:encoded>
+            <author>tett8107@gmail.com (Tet)</author>
+        </item>
+    </channel>
+</rss>

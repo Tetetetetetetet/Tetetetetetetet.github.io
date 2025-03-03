@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tettet.org/</id>
+    <title>Tet Blogs</title>
+    <updated>2025-03-03T12:44:27.513Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Tet</name>
+        <email>tett8107@gmail.com</email>
+        <uri>https://tetetetetetetet.github.io</uri>
+    </author>
+    <link rel="alternate" href="https://tettet.org/"/>
+    <link rel="self" href="https://tettet.org/atom.xml"/>
+    <subtitle>No Game No Life</subtitle>
+    <logo>https://tettet.org/avatar.jpg</logo>
+    <icon>https://tettet.org/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © Tet</rights>
+    <entry>
+        <title type="html"><![CDATA[valaxy 开发 log]]></title>
+        <id>https://tettet.org/posts/valaxy</id>
+        <link href="https://tettet.org/posts/valaxy"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>当我学会开始看官方doc</h1>
+<h2>shortcuts</h2>
+<p><code>package.json</code>里可以设置快捷命令</p>
+<pre><code class="language-json">{
+  &quot;scripts&quot;: {
+    &quot;build&quot;: &quot;npm run b</code></pre>
+<br/><p>访问 <a href="https://tettet.org/posts/valaxy" target="_blank">https://tettet.org/posts/valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Tet</name>
+            <email>tett8107@gmail.com</email>
+            <uri>https://tetetetetetetet.github.io</uri>
+        </author>
+        <published>2025-03-03T12:43:40.873Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝宝辅食1]]></title>
+        <id>https://tettet.org/posts/babyfood/bf1</id>
+        <link href="https://tettet.org/posts/babyfood/bf1"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>记录和宝宝一起吃 <em>fine food</em>--<em><strong>Time for FOOD</strong></em> 啦！！！<br>
+<img src="https://tettet.org/bf1.jpg" alt="foodpic"></p>
+<h2>好开心</h2>
+<h2>好好吃</h2>
+<h1>永远和宝宝在一起</h1>
+<br/><p>访问 <a href="https://tettet.org/posts/babyfood/bf1" target="_blank">https://tettet.org/posts/babyfood/bf1</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Tet</name>
+            <email>tett8107@gmail.com</email>
+            <uri>https://tetetetetetetet.github.io</uri>
+        </author>
+        <published>2025-02-18T00:00:00.000Z</published>
+    </entry>
+</feed>

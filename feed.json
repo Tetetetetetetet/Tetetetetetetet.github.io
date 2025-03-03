@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tet Blogs",
+    "home_page_url": "https://tettet.org/",
+    "feed_url": "https://tettet.org/feed.json",
+    "description": "No Game No Life",
+    "icon": "https://tettet.org/avatar.jpg",
+    "author": {
+        "name": "Tet",
+        "url": "https://tetetetetetetet.github.io"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>当我学会开始看官方doc</h1>\n<h2>shortcuts</h2>\n<p><code>package.json</code>里可以设置快捷命令</p>\n<pre><code class=\"language-json\">{\n  &quot;scripts&quot;: {\n    &quot;build&quot;: &quot;npm run b</code></pre>\n<br/><p>访问 <a href=\"https://tettet.org/posts/valaxy\" target=\"_blank\">https://tettet.org/posts/valaxy</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/valaxy",
+            "title": "valaxy 开发 log",
+            "date_modified": "2025-03-03T00:00:00.000Z",
+            "date_published": "2025-03-03T12:43:40.873Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>记录和宝宝一起吃 <em>fine food</em>--<em><strong>Time for FOOD</strong></em> 啦！！！<br>\n<img src=\"https://tettet.org/bf1.jpg\" alt=\"foodpic\"></p>\n<h2>好开心</h2>\n<h2>好好吃</h2>\n<h1>永远和宝宝在一起</h1>\n<br/><p>访问 <a href=\"https://tettet.org/posts/babyfood/bf1\" target=\"_blank\">https://tettet.org/posts/babyfood/bf1</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/babyfood/bf1",
+            "title": "宝宝辅食1",
+            "date_modified": "2025-02-17T00:00:00.000Z",
+            "date_published": "2025-02-18T00:00:00.000Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        }
+    ]
+}

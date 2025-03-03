@@ -1,7 +1,9 @@
 ---
-title: "欢迎来到我的博客"
+title: "the Tet's"
 date: '2025-3-2'
 ---
 
-熬到了5:22，如何取得最终的成功呢
+# Welcome to my website
+
+
 

@@ -12,10 +12,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@iconify/json": "^2.2.312",
     "valaxy": "0.22.13",
     "valaxy-theme-yun": "0.22.13"
   },
   "devDependencies": {
+    "@iconify-json/twemoji": "^1.2.2",
     "typescript": "^5.7.3"
   }
 }

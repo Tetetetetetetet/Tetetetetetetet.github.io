@@ -31,3 +31,6 @@ scaffolds目录下设置
 
 valaxy.config.ts.themeConfig: (here)[https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy-theme-yun/docs/zh-CN/config.md]
 
+## emoji
+[list](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.mjs)
+

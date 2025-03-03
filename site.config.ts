@@ -19,7 +19,7 @@ export default defineSiteConfig({
     link: 'https://tetetetetetetet.github.io',
     status:
     {
-      emoji: 'twemoji:video-game',
+      emoji: 'i-ri-rss-line',
     }
   },
   lastUpdated: true,
@@ -31,6 +31,11 @@ export default defineSiteConfig({
       link: '/atom.xml',
       icon: 'i-ri-rss-line',
       color: 'orange',
+    },
+    {
+      name: 'steam',
+      link:'',
+      icon: 'i-ri-game-steam',
     },
     {
       name: '1785131421',

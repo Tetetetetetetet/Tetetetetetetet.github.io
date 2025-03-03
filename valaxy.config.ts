@@ -4,6 +4,7 @@ import { defineValaxyConfig } from 'valaxy'
 // add icons what you will need
 const safelist = [
   'i-ri-home-line',
+  'i-ri-game-steam',
 ]
 
 /**
@@ -13,7 +14,9 @@ export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
 
   theme: 'yun',
-
+  markdown: {
+    
+  },
   themeConfig: {
     banner: {
       enable: true,

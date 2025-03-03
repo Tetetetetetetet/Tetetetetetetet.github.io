@@ -19,7 +19,7 @@ export default defineSiteConfig({
     link: 'https://tetetetetetetet.github.io',
     status:
     {
-      emoji: 'i-ri-rss-line',
+      emoji: "🎮",
     }
   },
   lastUpdated: true,
@@ -35,7 +35,7 @@ export default defineSiteConfig({
     {
       name: 'steam',
       link:'',
-      icon: 'i-ri-game-steam',
+      icon: 'i-ri-steam-line',
     },
     {
       name: '1785131421',
